@@ -1,0 +1,5 @@
+{
+  "name": "claude-orchestrator",
+  "description": "Orchestrate coding agents (Codex, Claude CLI, etc.) from Claude Code",
+  "version": "0.1.0"
+}
